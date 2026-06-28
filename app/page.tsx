@@ -43,9 +43,11 @@ export default function Home() {
             </h2>
 
             <p className="text-gray-400 max-w-3xl leading-relaxed">
-              Full-stack developer with 3+ years of experience building real-world web applications, business systems, and APIs.
-              Experienced in React, Next.js, Laravel, Node.js, and MySQL. I specialize in building production-ready systems such as CRM tools, ordering systems, and business management platforms used by companies.
-            </p>
+              Full-stack developer with 3+ years of experience building production-ready web applications, business websites, and API systems.
+
+Experienced in React, Next.js, Node.js, Laravel, Django and MySQL with hands-on work in real business environments including UAE-based companies.
+
+I focus on building scalable, clean, and business-driven systems rather than just static websites.</p>
           </section>
         </Reveal>
 
@@ -82,14 +84,15 @@ export default function Home() {
           <section className="py-24">
             <h2 className="text-3xl font-bold mb-10">What I Built</h2>
 
-            <div className="grid md:grid-cols-2 gap-6 text-gray-300">
-              <div>✔ Restaurant ordering system integrated with existing .NET billing system using Node.js APIs</div>
-              <div>✔ Expense tracker with charts, analytics, and category-based tracking</div>
-              <div>✔ Business websites for UAE companies with CMS (Laravel Filament + Next.js)</div>
-              <div>✔ REST APIs for frontend-backend integration and database systems</div>
-            </div>
-          </section>
+          <div className="grid md:grid-cols-2 gap-6 text-gray-300">
+    <div>✔ Built and deployed UAE business websites</div>
+    <div>✔ Integrated frontend with backend APIs (Node.js / Laravel)</div>
+    <div>✔ Developed real-time restaurant ordering system</div>
+    <div>✔ Worked with production MySQL databases</div>
+  </div>
+</section>
         </Reveal>
+
 
         {/* LIVE PROJECTS */}
         <Reveal>
@@ -218,7 +221,9 @@ export default function Home() {
                 </h3>
 
                 <p className="text-gray-400 mt-3">
-                  Full-stack ordering system integrated with existing .NET billing system using custom Node.js REST APIs.
+                 A real-time ordering system integrated with an existing .NET billing system using custom Node.js APIs.
+
+Handled order processing, menu management, and system integration with MySQL database.
                 </p>
 
                 <p className="text-sm text-gray-500 mt-3">

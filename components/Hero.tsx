@@ -26,7 +26,7 @@ export default function Hero() {
                 animate={{ opacity: 1, y: 0 }}
                 className="text-blue-400 mb-3 tracking-[0.2em] text-sm uppercase"
             >
-                Full Stack Developer
+                  Full-Stack Web Developer (React, Next.js, Node.js, Laravel)
             </motion.p>
 
             <h1 className="text-5xl md:text-7xl font-bold leading-tight">
@@ -42,7 +42,9 @@ export default function Hero() {
                 transition={{ delay: 0.5 }}
                 className="text-lg md:text-xl text-gray-400 mt-6 max-w-xl"
             >
-                I build scalable, high-performance web applications.
+              
+
+I build real-world business systems, APIs, and company websites for production use — including CRM tools, ordering systems, and UAE business websites.
             </motion.p>
             <div className="mt-10 flex gap-4">
                 <MagneticButton>
